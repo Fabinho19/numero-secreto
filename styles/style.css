@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,600;1,600&display=swap');
 
 :root {
-    --cor-primaria: #586ee3;
+    --cor-primaria: #0025f5;
     --cor-secundaria:#3876BF;
     --cor-terciaria: #B6BBC4;
     --cor-hover:#3f444b4d;
@@ -11,7 +11,7 @@
 }
 
 * {
-    margin: 1;
+    margin: 0;
     padding: 0;
 }
 
